@@ -42,6 +42,9 @@
 			<Parameter>
 				<ParameterName>connectionDistance</ParameterName>
 			</Parameter>
+			<Parameter>
+				<ParameterName>speed</ParameterName>
+			</Parameter>
 		</Parameters>
 		<PresentationProperties>
 			<EnableZoomAndPanning>true</EnableZoomAndPanning>

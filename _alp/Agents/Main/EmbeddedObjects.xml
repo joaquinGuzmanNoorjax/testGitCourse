@@ -31,6 +31,10 @@
 		</Replication>
 		<CollectionType>ARRAY_LIST_BASED</CollectionType>
 		<InEnvironment>true</InEnvironment>
+		<InitialSpeedCode Class="CodeUnitValue">
+			<Code><![CDATA[speed(MPS)]]></Code>
+			<Unit Class="SpeedUnits">MPS</Unit>
+		</InitialSpeedCode>
 		<InitialLocationType>XYZ</InitialLocationType>
 		<ColumnCode Class="CodeValue">
 			<Code><![CDATA[0]]></Code>
